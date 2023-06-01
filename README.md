@@ -6,3 +6,4 @@ int main(){
   FILE * ptr;
   char array[50]=lectura, rt
 }
+devolver0;
