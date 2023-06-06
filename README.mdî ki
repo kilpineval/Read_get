@@ -5,7 +5,10 @@ Leeremos un archivo
 int main(){
   FILE * ptr;
   matriz de caracteres[50]=(lectura, rt);
-  si(ptr=(fopenArchivo)){}
+  if(ptr=(fopenArchivo)){
+    printf(ptr = ("El archivo no se abrio por alguma razonA");
+    
+  }
     imprimirf("El archivo no
 }
 devolver0;
