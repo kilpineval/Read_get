@@ -1,0 +1,11 @@
+# Leer_obtener
+Leeremos un archivo
+#include<stdio.h>
+#include<conio.h>
+int main(){
+  FILE * ptr;
+  matriz de caracteres[50]=(lectura, rt);
+  si(ptr=(fopenArchivo)){}
+    imprimirf("El archivo no
+}
+devolver0;
