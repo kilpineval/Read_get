@@ -6,7 +6,7 @@ int main(){
   FILE * ptr;
   matriz de caracteres[50]=(lectura, rt);
   if(ptr=(fopenArchivo)){
-    printf(ptr = ("El archivo no se abrio por alguma razonA");
+    printf(ptr = ("El archivo no se abrio por alguna razon");
     
   }
     imprimirf("El archivo no
